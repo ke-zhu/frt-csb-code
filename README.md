@@ -10,9 +10,7 @@ Zhu, K., Yang, S.\*, & Wang, X. (2025). [Enhancing statistical validity and powe
 - `sim_main/`: Main simulation study 
 - `sim_power_curve/`: Simulations for generating power curves
 - `sim_corr_X/`: Additional simulations with correlated covariates, reported in the appendix
-
-> Note: Real-data analysis is not included due to data privacy restrictions.
-
+- `C9633+NCDB`: Code for real data analysis. Data set is not included due to data privacy restrictions
 
 ## Citation
 
